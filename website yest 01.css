@@ -1,0 +1,67 @@
+.countiner1-1{
+  width: 100%;
+  height: 262px;
+  margin-left:auto ;
+  margin-right: auto;
+
+  float: left;
+  background-size: 100% 200px;
+  background-repeat: no-repeat;
+  background-position: center top;
+  
+}
+.thumbnail{
+  width: 100%;
+  height: 200px;
+}
+.countiner1-2{
+  width: 100%;
+  height: 62px;
+  position: relative;
+  bottom:60px;
+ 
+  
+}
+.pro1{
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  margin-top: 10px;
+  margin-bottom:22px;
+  margin-right: 2px;
+  display:inline-block;
+  left: 3px;
+
+}
+.video-title1{
+  width: 85%;
+  color: #000000;
+  display: inline-block;
+  vertical-align: top;
+  font-family: arial;
+}
+.viwes1{
+    width: 55%;
+    vertical-align: top;
+  color: #ffffff;
+  display: inline-block;
+  position: relative;
+  left: 46px;
+  bottom: 32px;
+  font-family: arial;
+  font-size: 14px;
+  color: #969696;
+  
+}
+.channel-1{
+  vertical-align: top;
+    width: 35%;
+  color: #ffffff;
+  display: inline-block;
+  position: relative;
+  left: 46px;
+  bottom: 32px;
+  font-family: arial;
+  font-size: 14px;
+  color: #969696;
+}
